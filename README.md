@@ -8,7 +8,7 @@
 #### 🧑‍💻 Computer Science Engineer | Python & Data Wizard | Cloud & DevOps Enthusiast
 
 ![Profile views](https://komarev.com/ghpvc/?username=aadarsh8600&color=blue)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/aadarshkrishna)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/aadarsh-krishna-a67678234)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=github)](https://aadarshkrishna.github.io)
 
 ---
@@ -49,8 +49,7 @@
 ## 🌐 Connect & Collaborate
 
 - 💬 Let’s talk about **Data Engineering, Cloud, DevOps, and Automation**  
-- 📫 Email: aadarsh.krishna@email.com  
-- 🐦 Twitter: [@aadarshdevops](https://twitter.com/aadarshdevops)  
+- 📫 Email: aadarshkrishna2000@email.com  
 
 ---
 
