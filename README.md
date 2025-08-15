@@ -1,6 +1,6 @@
 <!-- Banner Image (pick a geeky header or a computer science meme!) -->
 <p align="center">
-  <img src="https://github.com/<your-username>/<your-username>/blob/main/assets/banner.png" alt="Welcome Banner" width="90%" />
+  <img src="https://github.com/<aadarsh8600>/<aadarsh8600>/blob/main/assets/banner.png" alt="Welcome Banner" width="90%" />
 </p>
 
 # Hey there! 👋 I’m <Your Name> 
