@@ -1,28 +1,71 @@
-[<h1 align="center">Hi 👋, I'm Aadarsh Krishna</h1>
-<h3 align="center">A passionate Computer Science Engineer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarsh8600&label=Profile%20views&color=0e75b6&style=flat" alt="aadarsh8600" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aadarsh8600" alt="aadarsh8600" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aadarsh-krishna-a67678234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aadarsh-krishna-a67678234/" height="30" width="40" /></a>
-<a href="https://kaggle.com/aadarshkrishna10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aadarshkrishna10" height="30" width="40" /></a>
-<a href="https://instagram.com/aadarsh_krishna0806" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadarsh_krishna0806" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aadarsh_86" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aadarsh_86" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@aadarshkrishna21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aadarshkrishna21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aadarsh_86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aadarsh_86" height="30" width="40" /></a>
+<!-- Banner Image (pick a geeky header or a computer science meme!) -->
+<p align="center">
+  <img src="https://github.com/<your-username>/<your-username>/blob/main/assets/banner.png" alt="Welcome Banner" width="90%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+# Hey there! 👋 I’m <Your Name> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarsh8600&show_icons=true&locale=en&layout=compact" alt="aadarsh8600" /></p>
+#### 🧑‍💻 Computer Science Engineer | Python & Data Wizard | Cloud Enthusiast
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadarsh8600&show_icons=true&locale=en" alt="aadarsh8600" /></p>
+![Profile views](https://komarev.com/ghpvc/?username=<your-username>&color=blue)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/<your-link>)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=github)](https://yourportfolio.com)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadarsh8600&" alt="aadarsh8600" /></p>
-](https://www.linkedin.com/in/aadarsh-krishna-a67678234/)
+---
+
+## 🚀 About Me
+
+- 🎓 Recent Computer Science grad passionate about solving real-world problems with code.
+- 🔭 Building cloud-based analytics platforms & optimizing data pipelines.
+- ⚡ Love automating everything and hacking on open source.
+- 📝 Blogger and contributor to Dev and Stack Overflow.
+
+---
+
+## 💻 Tech Toolbox
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apache-spark&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&hide_title=true&count_private=true&theme=material-palenight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<your-username>&theme=material-palenight"/>
+</p>
+
+---
+
+## 🌐 Connect & Collaborate
+
+- 💬 Let’s talk about data, cloud, and automating boring stuff!
+- 📫 Email: your@email.com
+- 🐦 Twitter: @yourhandle
+
+---
+
+<!-- Fun, Creative Section -->
+<details>
+<summary>📚 Fun Fact & Nerdy Quote</summary>
+  
+*“Programs must be written for people to read, and only incidentally for machines to execute.”* – Harold Abelson
+
+</details>
+
+<!-- Add more: latest projects, blog posts, fun gifs, memes, or coding trophies! -->
+
+---
+
+<!-- Trophies (Optional, fun visual stats) -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=<your-username>&column=7&theme=gruvbox"/>
+</p>
+
