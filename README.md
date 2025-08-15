@@ -4,7 +4,7 @@
 " alt="Welcome Banner" width="90%" />
 </p>
 
-# Hey there! 👋 I’m <Aadarsh Krishna> 
+# Hey there! 👋 I’m Aadarsh Krishna
 
 #### 🧑‍💻 Computer Science Engineer | Python & Data Wizard | Cloud Enthusiast
 
